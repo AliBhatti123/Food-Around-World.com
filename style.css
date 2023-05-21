@@ -1,0 +1,26 @@
+
+.Slider{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+ a {
+  float:center;
+
+  color:purple;
+  text-align: center;
+  padding: 15px 17px;
+  text-decoration-line:overline underline;
+   text-decoration-color:darkolivegreen;
+  font-size:14px;}
+
+  a:hover{
+  background-color: #33CC99;
+  
+}
+
+ a.active {
+  background-color: yellow;
+   color: black;
+}
